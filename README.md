@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, AI/ML roadmap**
 
-- 📫 How to reach me **aus588185@gmail.com**
+- 📫 How to reach me **atharvjadhav4132@gmail.com**
 
 - ⚡ Fun fact **I’m turning my AI/ML learning journey into real projects**
 
